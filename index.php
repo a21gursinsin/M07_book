@@ -29,12 +29,12 @@
             <tr>
               <th><h1>Author</h1></th>
               <th><h1>Country</h1></th>
-              <th>ImageLink</th>
-              <th>language</th>
-              <th id="link">link</th>
-              <th>pages</th>
-              <th>title</th>
-              <th>year</th>
+              <th><h1>ImageLink</h1></th>
+              <th><h1>language</h1></th>
+              <th id="link"><h1>link</h1></th>
+              <th><h1>pages</h1></th>
+              <th><h1>title</h1></th>
+              <th><h1>year</h1></th>
             </tr>
        </thead>
             <?php foreach ($users as $s) { ?>
